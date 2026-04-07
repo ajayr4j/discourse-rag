@@ -237,4 +237,4 @@ PRs welcome. If you use this for a specific Discourse forum, consider adding an 
 
 ## License
 
-MIT
+Apache 2.0
